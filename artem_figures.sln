@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "artem_figures", "artem_figures\artem_figures.csproj", "{EB02F0CE-F751-4170-8540-AA6BAD2C64DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB02F0CE-F751-4170-8540-AA6BAD2C64DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB02F0CE-F751-4170-8540-AA6BAD2C64DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB02F0CE-F751-4170-8540-AA6BAD2C64DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB02F0CE-F751-4170-8540-AA6BAD2C64DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4E4F71-11F5-42E2-B2C5-E30783A2D4D6}
+	EndGlobalSection
+EndGlobal
